@@ -1,0 +1,6 @@
+C:\Users\Yslelf\source\repos\McPixelPainting\McPixelPainting\bin\Debug\McPixelPainting.exe
+C:\Users\Yslelf\source\repos\McPixelPainting\McPixelPainting\obj\Debug\McPixelPainting.Main.resources
+C:\Users\Yslelf\source\repos\McPixelPainting\McPixelPainting\obj\Debug\McPixelPainting.Properties.Resources.resources
+C:\Users\Yslelf\source\repos\McPixelPainting\McPixelPainting\obj\Debug\McPixelPainting.csproj.GenerateResource.cache
+C:\Users\Yslelf\source\repos\McPixelPainting\McPixelPainting\obj\Debug\McPixelPainting.csproj.CoreCompileInputs.cache
+C:\Users\Yslelf\source\repos\McPixelPainting\McPixelPainting\obj\Debug\McPixelPainting.exe
